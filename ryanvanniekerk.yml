@@ -18,6 +18,8 @@
         - things
         - vmware-fusion
         - dockertoolbox
+        - little-snitch
+        - fish
 
   roles:
     - profile-all
