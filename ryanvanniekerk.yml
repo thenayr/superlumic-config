@@ -7,9 +7,9 @@
     - name: install personal cask applications
       homebrew_cask: name={{item}} state=present
       with_items:
-	- amethyst
-	- iterm
-	- jumpcut
+        - amethyst
+        - iterm
+        - jumpcut
         - istat-menus
         - dropbox
         - alfred
