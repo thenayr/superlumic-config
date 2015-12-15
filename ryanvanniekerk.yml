@@ -17,7 +17,7 @@
         - bartender
         - things
         - vmware-fusion
-	- dockertoolbox
+        - dockertoolbox
 
   roles:
     - profile-all
